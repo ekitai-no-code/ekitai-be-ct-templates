@@ -1,0 +1,1 @@
+# ekitai-be-ct-templates
